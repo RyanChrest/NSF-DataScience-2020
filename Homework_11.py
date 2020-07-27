@@ -1,3 +1,4 @@
+from sklearn.model_selection import train_test_split as tts
 from sklearn.linear_model import LogisticRegression as LR
 from sklearn.metrics import plot_roc_curve
 # test train split
